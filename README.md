@@ -10,7 +10,7 @@ Tech Stack:
 ---
 
 # Model training and evaluation
-![image](https://drive.google.com/file/d/1vbz6q9lywjTkqVVzmIgUmF6QOlKv6COx/view?usp=sharing)
+![image](https://github.com/VedSorathiya/phishing-email-classifier/blob/main/model%20ssr.png)
 
 ---
 
